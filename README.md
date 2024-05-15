@@ -1,9 +1,5 @@
-# Fix the Windows REG to start Roblox in any browser!
-`if it does not start due to an error in the registry`
+# Bypass Windows Registry to Launch Roblox in Any Browser!
 
-*maybe not work.*
-*maybe need to be run this is script after every update Roblox*
+If Roblox fails to start due to a registry error, try this solution. Please note that it might not work, and you may need to run this script after every Roblox update.
 
-I AM NOT RESPONSIBLE!
-USE AT YOUR OWN RISK!
-
+**Warning: Use at Your Own Risk! I am not responsible for any consequences.**
